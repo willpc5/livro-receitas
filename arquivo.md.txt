@@ -1,4 +1,0 @@
-# Testando arquivo de testes do curso
-
-. É apenas um exemplo para testar o git
-. Ter uma habilidade melhor a cada dia
